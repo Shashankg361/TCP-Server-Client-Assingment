@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ShashankSubhashGupta\\OneDrive - Monocept Consulting Pvt Ltd\\Projects\\Complete\\TCPAssiginment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{664F0964-BC7E-45C9-82C1-5A65E0A3D7B5}|..\\TCPCLient\\TCPCLient.csproj|c:\\users\\shashanksubhashgupta\\onedrive - monocept consulting pvt ltd\\projects\\complete\\tcpclient\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA326F6-F729-40EC-8659-FF0702309D57}|TCPServer.csproj|c:\\users\\shashanksubhashgupta\\onedrive - monocept consulting pvt ltd\\projects\\complete\\tcpassiginment\\services\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA326F6-F729-40EC-8659-FF0702309D57}|TCPServer.csproj|solutionrelative:services\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664F0964-BC7E-45C9-82C1-5A65E0A3D7B5}|..\\TCPCLient\\TCPCLient.csproj|c:\\users\\shashanksubhashgupta\\onedrive - monocept consulting pvt ltd\\projects\\complete\\tcpclient\\services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA326F6-F729-40EC-8659-FF0702309D57}|TCPServer.csproj|c:\\users\\shashanksubhashgupta\\onedrive - monocept consulting pvt ltd\\projects\\complete\\tcpassiginment\\services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA326F6-F729-40EC-8659-FF0702309D57}|TCPServer.csproj|solutionrelative:services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664F0964-BC7E-45C9-82C1-5A65E0A3D7B5}|..\\TCPCLient\\TCPCLient.csproj|c:\\users\\shashanksubhashgupta\\onedrive - monocept consulting pvt ltd\\projects\\complete\\tcpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA326F6-F729-40EC-8659-FF0702309D57}|TCPAssiginment.csproj|c:\\users\\shashanksubhashgupta\\onedrive - monocept consulting pvt ltd\\projects\\complete\\tcpassiginment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA326F6-F729-40EC-8659-FF0702309D57}|TCPAssiginment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA326F6-F729-40EC-8659-FF0702309D57}|TCPServer.csproj|c:\\users\\shashanksubhashgupta\\onedrive - monocept consulting pvt ltd\\projects\\complete\\tcpassiginment\\services\\serverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA326F6-F729-40EC-8659-FF0702309D57}|TCPServer.csproj|solutionrelative:services\\serverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA326F6-F729-40EC-8659-FF0702309D57}|TCPServer.csproj|c:\\users\\shashanksubhashgupta\\onedrive - monocept consulting pvt ltd\\projects\\complete\\tcpassiginment\\helpers\\messageparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA326F6-F729-40EC-8659-FF0702309D57}|TCPServer.csproj|solutionrelative:helpers\\messageparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA326F6-F729-40EC-8659-FF0702309D57}|TCPServer.csproj|c:\\users\\shashanksubhashgupta\\onedrive - monocept consulting pvt ltd\\projects\\complete\\tcpassiginment\\models\\collectionstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA326F6-F729-40EC-8659-FF0702309D57}|TCPServer.csproj|solutionrelative:models\\collectionstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ShashankSubhashGupta\\OneDrive - Monocept Consulting Pvt Ltd\\Projects\\Complete\\TCPAssiginment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ShashankSubhashGupta\\OneDrive - Monocept Consulting Pvt Ltd\\Projects\\Complete\\TCPAssiginment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T11:31:19.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ShashankSubhashGupta\\OneDrive - Monocept Consulting Pvt Ltd\\Projects\\Complete\\TCPAssiginment\\Services\\ClientHandler.cs",
+              "RelativeDocumentMoniker": "Services\\ClientHandler.cs",
+              "ToolTip": "C:\\Users\\ShashankSubhashGupta\\OneDrive - Monocept Consulting Pvt Ltd\\Projects\\Complete\\TCPAssiginment\\Services\\ClientHandler.cs",
+              "RelativeToolTip": "Services\\ClientHandler.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwF4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T11:36:26.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\ShashankSubhashGupta\\OneDrive - Monocept Consulting Pvt Ltd\\Projects\\Complete\\TCPCLient\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "..\\TCPCLient\\Services\\ClientService.cs",
+              "ToolTip": "C:\\Users\\ShashankSubhashGupta\\OneDrive - Monocept Consulting Pvt Ltd\\Projects\\Complete\\TCPCLient\\Services\\ClientService.cs",
+              "RelativeToolTip": "..\\TCPCLient\\Services\\ClientService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAcwEUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T11:37:31.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ShashankSubhashGupta\\OneDrive - Monocept Consulting Pvt Ltd\\Projects\\Complete\\TCPCLient\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TCPCLient\\Program.cs",
+              "ToolTip": "C:\\Users\\ShashankSubhashGupta\\OneDrive - Monocept Consulting Pvt Ltd\\Projects\\Complete\\TCPCLient\\Program.cs",
+              "RelativeToolTip": "..\\TCPCLient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T11:33:08.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EncryptionService.cs",
+              "DocumentMoniker": "C:\\Users\\ShashankSubhashGupta\\OneDrive - Monocept Consulting Pvt Ltd\\Projects\\Complete\\TCPAssiginment\\Services\\EncryptionService.cs",
+              "RelativeDocumentMoniker": "Services\\EncryptionService.cs",
+              "ToolTip": "C:\\Users\\ShashankSubhashGupta\\OneDrive - Monocept Consulting Pvt Ltd\\Projects\\Complete\\TCPAssiginment\\Services\\EncryptionService.cs",
+              "RelativeToolTip": "Services\\EncryptionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T11:36:43.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EncryptionService.cs",
+              "DocumentMoniker": "C:\\Users\\ShashankSubhashGupta\\OneDrive - Monocept Consulting Pvt Ltd\\Projects\\Complete\\TCPCLient\\Services\\EncryptionService.cs",
+              "RelativeDocumentMoniker": "..\\TCPCLient\\Services\\EncryptionService.cs",
+              "ToolTip": "C:\\Users\\ShashankSubhashGupta\\OneDrive - Monocept Consulting Pvt Ltd\\Projects\\Complete\\TCPCLient\\Services\\EncryptionService.cs",
+              "RelativeToolTip": "..\\TCPCLient\\Services\\EncryptionService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T11:37:41.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServerService.cs",
+              "DocumentMoniker": "C:\\Users\\ShashankSubhashGupta\\OneDrive - Monocept Consulting Pvt Ltd\\Projects\\Complete\\TCPAssiginment\\Services\\ServerService.cs",
+              "RelativeDocumentMoniker": "Services\\ServerService.cs",
+              "ToolTip": "C:\\Users\\ShashankSubhashGupta\\OneDrive - Monocept Consulting Pvt Ltd\\Projects\\Complete\\TCPAssiginment\\Services\\ServerService.cs",
+              "RelativeToolTip": "Services\\ServerService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwCMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T11:36:07.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MessageParser.cs",
+              "DocumentMoniker": "C:\\Users\\ShashankSubhashGupta\\OneDrive - Monocept Consulting Pvt Ltd\\Projects\\Complete\\TCPAssiginment\\Helpers\\MessageParser.cs",
+              "RelativeDocumentMoniker": "Helpers\\MessageParser.cs",
+              "ToolTip": "C:\\Users\\ShashankSubhashGupta\\OneDrive - Monocept Consulting Pvt Ltd\\Projects\\Complete\\TCPAssiginment\\Helpers\\MessageParser.cs",
+              "RelativeToolTip": "Helpers\\MessageParser.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T11:36:55.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CollectionStore.cs",
+              "DocumentMoniker": "C:\\Users\\ShashankSubhashGupta\\OneDrive - Monocept Consulting Pvt Ltd\\Projects\\Complete\\TCPAssiginment\\Models\\CollectionStore.cs",
+              "RelativeDocumentMoniker": "Models\\CollectionStore.cs",
+              "ToolTip": "C:\\Users\\ShashankSubhashGupta\\OneDrive - Monocept Consulting Pvt Ltd\\Projects\\Complete\\TCPAssiginment\\Models\\CollectionStore.cs",
+              "RelativeToolTip": "Models\\CollectionStore.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T11:35:49.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\ShashankSubhashGupta\OneDrive - Monocept Consulting Pvt Ltd\Projects\Complete\TCPCLient\bin\Debug\net8.0\TCPCLient.exe
+C:\Users\ShashankSubhashGupta\OneDrive - Monocept Consulting Pvt Ltd\Projects\Complete\TCPCLient\bin\Debug\net8.0\TCPCLient.deps.json
+C:\Users\ShashankSubhashGupta\OneDrive - Monocept Consulting Pvt Ltd\Projects\Complete\TCPCLient\bin\Debug\net8.0\TCPCLient.runtimeconfig.json
+C:\Users\ShashankSubhashGupta\OneDrive - Monocept Consulting Pvt Ltd\Projects\Complete\TCPCLient\bin\Debug\net8.0\TCPCLient.dll
+C:\Users\ShashankSubhashGupta\OneDrive - Monocept Consulting Pvt Ltd\Projects\Complete\TCPCLient\bin\Debug\net8.0\TCPCLient.pdb
+C:\Users\ShashankSubhashGupta\OneDrive - Monocept Consulting Pvt Ltd\Projects\Complete\TCPCLient\obj\Debug\net8.0\TCPCLient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShashankSubhashGupta\OneDrive - Monocept Consulting Pvt Ltd\Projects\Complete\TCPCLient\obj\Debug\net8.0\TCPCLient.AssemblyInfoInputs.cache
+C:\Users\ShashankSubhashGupta\OneDrive - Monocept Consulting Pvt Ltd\Projects\Complete\TCPCLient\obj\Debug\net8.0\TCPCLient.AssemblyInfo.cs
+C:\Users\ShashankSubhashGupta\OneDrive - Monocept Consulting Pvt Ltd\Projects\Complete\TCPCLient\obj\Debug\net8.0\TCPCLient.csproj.CoreCompileInputs.cache
+C:\Users\ShashankSubhashGupta\OneDrive - Monocept Consulting Pvt Ltd\Projects\Complete\TCPCLient\obj\Debug\net8.0\TCPCLient.dll
+C:\Users\ShashankSubhashGupta\OneDrive - Monocept Consulting Pvt Ltd\Projects\Complete\TCPCLient\obj\Debug\net8.0\refint\TCPCLient.dll
+C:\Users\ShashankSubhashGupta\OneDrive - Monocept Consulting Pvt Ltd\Projects\Complete\TCPCLient\obj\Debug\net8.0\TCPCLient.pdb
+C:\Users\ShashankSubhashGupta\OneDrive - Monocept Consulting Pvt Ltd\Projects\Complete\TCPCLient\obj\Debug\net8.0\TCPCLient.genruntimeconfig.cache
+C:\Users\ShashankSubhashGupta\OneDrive - Monocept Consulting Pvt Ltd\Projects\Complete\TCPCLient\obj\Debug\net8.0\ref\TCPCLient.dll
