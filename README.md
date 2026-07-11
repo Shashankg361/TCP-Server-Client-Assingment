@@ -2,7 +2,7 @@ TCP Server and Client communication Assingment with encryption and decryption of
 
 Output of the Client attached below.
 
-<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/da9a3084-8ac2-42fc-8595-4757c3f3a614" />
+<img width="1365" height="662" alt="image" src="https://github.com/user-attachments/assets/90264411-9a1e-4507-9e8e-a27aeb7f3519" />
 
 Output screen of the Server attached below.
 
